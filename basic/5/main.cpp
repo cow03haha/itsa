@@ -15,6 +15,7 @@ int main()
         else
             cout << "0";
     }
+    cout << endl;
 
     return 0;
 }

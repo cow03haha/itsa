@@ -17,7 +17,7 @@ int main()
         total += rate;
     }
 
-    cout << total;
+    cout << total << endl;
 
     return 0;
 }
